@@ -1,0 +1,13 @@
+{
+  "L_cm": 67.0,
+  "total_tension_kgf": 134.9,
+  "downbearing_kgf": 80.4,
+  "n_left": 11,
+  "n_right": 10,
+  "oob": [],
+  "spacing_mm": 10.0,
+  "gauge_min": 0.4,
+  "gauge_max": 1.6,
+  "note_low": "F2",
+  "note_high": "E5"
+}
